@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "928115650323",
+    "project_id": "todoc-3956e",
+    "storage_bucket": "todoc-3956e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928115650323:android:d5ca331ddbe1832b85f4e6",
+        "android_client_info": {
+          "package_name": "com.cleanup.todoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928115650323-6j3mj19p0eieter62kugn9tmqi9ti70l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9MJJnLeZgoBXzCK9qxvl3TTslH7Uec2A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928115650323-6j3mj19p0eieter62kugn9tmqi9ti70l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
